@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of AI Rota",
+  "description": "Intelligent Medical Rota & Shift Management System with AI-powered conflict detection and marketplace.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
